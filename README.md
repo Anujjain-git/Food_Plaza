@@ -4,9 +4,9 @@ Description: Food_plaza is a FULL MERN Stack food-ordering website made with Rea
 _Steps To Load WebPage on your device_:
 1) Download Zip Folder, extract it.
 2) Open the downloaded folder at Terminal
-3) Change Directory to server (cd server)
+3) Change Directory to backend (cd backend)
 4) Run node index.js
-5) Change Directory to client (cd ../client)
+5) Change Directory to reactpart (cd ../reactpart)
 6) Run npm install
 7) Run npm start
 
