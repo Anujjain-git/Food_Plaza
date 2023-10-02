@@ -15,28 +15,40 @@ Explore .....
 _Outputs_:
 
 **Home Page with Carousal**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/0161400a-daff-4202-9737-6f35de492337)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/c6c28170-72a6-46e2-8667-9a1dae016208)
+
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/bed77c98-472c-42ec-afc4-e0e5e37dc68f)
+
+
 
 **Menu**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/af1b514e-919f-4180-8643-9aa659c020ab)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/23ec8137-f598-40a5-ad43-17120c9baa6d)
+
+**Choosing different Combination**
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/1e297848-2aad-4667-98de-7f25c18631a1)
+
 
 **Search Bar**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/5eaa0a0e-8f17-4dc1-a4ca-3d02242e88e0)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/48b5214a-3bb3-4d0a-a378-6179d90fab3c)
 
 **Login Page**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/773b5bdf-8c3f-491f-86e0-74175f0a35e5)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/4087e424-6351-4b20-903b-24259e95424b)
 
 **Sign Up Page**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/122445d2-181b-48a4-8b0d-4fbc313be8a4)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/7ca52582-e728-4685-a19f-ac9d4ceeb676)
+
+**Logging in with Incorrect Credentials**
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/9ed73978-96b9-4bfc-9502-e82b9f70dae1)
+
 
 **MyCart and Logout Facility after SignIn**
 ![image](https://github.com/basebottom/Food_Plaza/assets/141000779/0cdfcb80-e6c0-43a9-9430-97c9437d23e1)
 
 **MyCart OverLay**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/821b7888-6fe7-4dd5-9323-1affe14544e8)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/787d264f-78fc-4df9-8248-f8073af2d8e8)
 
 **MyOrders With Date**
-![image](https://github.com/basebottom/Food_Plaza/assets/141000779/9a7af1dc-cd95-424a-96b6-df45d514d3af)
+![image](https://github.com/Anujjain-git/Food_Plaza/assets/141000779/c7b6a09b-8575-49ff-b6f8-9b528abe4933)
 
 
 
